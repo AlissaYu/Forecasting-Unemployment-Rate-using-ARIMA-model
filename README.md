@@ -1,5 +1,5 @@
 # Forecasting-Unemployment-using-ARIMA-model
-This is HW2 Case2 for DSO424: Business Forecasting (Professor: Robertas Gabrys) in 2022 Fall in USC.
+This is HW3 for DSO424: Business Forecasting (Professor: Robertas Gabrys) in 2022 Fall in USC.
 
 Team members:
 Joanna Ge
